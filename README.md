@@ -21,8 +21,8 @@
 <a href="https://kaggle.com/sunil ravi 007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sunil ravi 007" height="30" width="40" /></a>
 <a href="https://medium.com/@sunilr31r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sunilr31r" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sunil31r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunil31r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sunil r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil r" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sunil r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunil r" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sunil_ravi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sunil_ravi/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sunilzfok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sunilzfok/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
