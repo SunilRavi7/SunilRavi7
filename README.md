@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ♠ TYPING ANIMATION — giphy hosted, always works -->
-<img src="https://drive.google.com/file/d/1HZrE6rxN_9rwp9pidCRupfU_5VcxTFBJ/view?usp=sharing" width="500" height="300" alt="Typing SVG"/>
+<img src="https://thumbs.dreamstime.com/b/technology-background-full-hd-wallpaper-colored-abstract-377560225.jpg" width="500" height="300" alt="Typing SVG"/>
 
 <br/><br/>
 
