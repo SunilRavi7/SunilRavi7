@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ♠ TYPING ANIMATION — giphy hosted, always works -->
-<img src="https://cdn.pixabay.com/animation/2024/06/17/11/26/11-26-25-288_512.gif" width="500" height="300" alt="Typing SVG"/>
+<img src="https://cdn.pixabay.com/animation/2026/01/04/23/31/23-31-02-278_512.gif" width="500" height="300" alt="Typing SVG"/>
 
 <br/><br/>
 
