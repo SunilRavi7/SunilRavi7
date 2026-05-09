@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ♠ TYPING ANIMATION — giphy hosted, always works -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2400&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=42&lines=♠+Building+Autonomous+AI+Agents+%26+LLM+Systems;♠+Cybersecurity+Analyst+%40+Big+Four+%7C+Bengaluru+🇮🇳;♠+RAG+Pipelines+%7C+LLMs+%7C+Vector+Databases+%7C+ML;♠+Data+Engineering+%7C+SQL+Server+%7C+DBMS+%7C+ETL;♠+Self-Taught+%7C+Adapting+Daily+%7C+Shipping+Always" alt="Typing SVG"/>
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2400&pause=900&color=7C3AED&center=true&vCenter=true&width=820&height=42&lines=♠+Building+Autonomous+AI+Agents+%26+LLM+Systems;♠+Cybersecurity+Analyst+%40+Big+Four+%7C+Bengaluru+🇮🇳;♠+RAG+Pipelines+%7C+LLMs+%7C+Vector+Databases+%7C+ML;♠+Data+Engineering+%7C+SQL+Server+%7C+DBMS+%7C+ETL;♠+Self-Taught+%7C+Adapting+Daily+%7C+Shipping+Always](https://www.magnific.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=1&uuid=80f8f1cd-641b-4557-9245-8d97b726778b&query=Code+svg)" alt="Typing SVG"/>
 
 <br/><br/>
 
